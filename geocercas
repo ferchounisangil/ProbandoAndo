@@ -140,6 +140,60 @@
           6.542625387607276
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "TIERRERO DE LOS RICOS",
+        "HORA": "09:30 AM",
+        "RUTA": "B2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14161473111147,
+          6.556014639334545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "VILLA DEL PRADO CALLE 33 12B",
+        "HORA": "10:57 AM",
+        "RUTA": "B2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.15133330191401,
+          6.557254009895933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "COLEGIO SAN CARLOS",
+        "HORA": "12:13 AM",
+        "RUTA": "B2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14492360237256,
+          6.555351020499884
+        ]
+      }
     }
   ]
 }
