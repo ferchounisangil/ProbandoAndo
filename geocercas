@@ -194,6 +194,114 @@
           6.555351020499884
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "",
+        "marker-symbol": "",
+        "NOMBRE": "HOGAR DE PASO ANCIANATO",
+        "HORA": "04:36 AM",
+        "RUTA": "A1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12985361270643,
+          6.558174648070871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "COLEGIO SANTA CRUZ DE LA NUEVA BAEZA",
+        "HORA": "04:45 AM ",
+        "RUTA": "A1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12687377215786,
+          6.559108147955392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "IGLESIA DE PABLO VI",
+        "HORA": "05:40 AM ",
+        "RUTA": "A1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12687377215786,
+          6.556329368181774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "CARRERA 5 ALTOS GALLINERAL",
+        "HORA": "06:49 AM",
+        "RUTA": "A1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12342142785889,
+          6.555296517503701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "PUENTE EL GUASCA VIA MOGOTES",
+        "HORA": "09.55 AM",
+        "RUTA": "A1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.11426851175156,
+          6.55554656796223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "EDS LA PALOBLANCA",
+        "HORA": "10:26 AM",
+        "RUTA": "A1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.10891167052006,
+          6.571747504718417
+        ]
+      }
     }
   ]
 }
