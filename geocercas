@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "GLORIETA ARGOS",
+        "HORA": "4:30 AM",
+        "RUTA": "B1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1398594379425,
+          6.560430867770868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "NOMBRE": "HOTEL MONCHUELO",
+        "HORA": "5:00 AM",
+        "RUTA": "B1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.15580248832703,
+          6.552266326605947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "NOMBRE": "BARRIO SANTANDER",
+        "HORA": "5:55 AM",
+        "RUTA": "B1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1459641456604,
+          6.553726574203755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "NOMBRE": "IGLESIA SAGRADA FMLA",
+        "HORA": "9:00 AM",
+        "RUTA": "B1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13874363899231,
+          6.554280827647084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "NOMBRE": "CRA 16 CON 15",
+        "HORA": "07:55 AM",
+        "RUTA": "B1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13801407814024,
+          6.552085127700772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-symbol": "",
+        "marker-size": "",
+        "NOMBRE": "CC EL PUENTE",
+        "HORA": "04:38 AM",
+        "RUTA": "B2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1334114074707,
+          6.551296378758514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "IGLESIA PROVIVIENS",
+        "HORA": "06:10 AM",
+        "RUTA": "B2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13202738761902,
+          6.541181096027358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "BELLA VISTA ",
+        "HORA": "06:20 AM",
+        "RUTA": "B2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12765538692474,
+          6.542625387607276
+        ]
+      }
+    }
+  ]
+}
