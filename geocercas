@@ -410,6 +410,96 @@
           6.563696619669754
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "ESTADIO EL POLOMO SILVA",
+        "HORA": "04:41 AM ",
+        "RUTA": "B3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13881561436585,
+          6.550988428061962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "CRA 19 CLL 10 PORTAL DE LA CRUZ",
+        "HORA": "05:54 AM ",
+        "RUTA": "B3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13554167101677,
+          6.548485113567152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "CRA 18 CLL 10A",
+        "HORA": "06:35 AM",
+        "RUTA": "B3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1350658829275,
+          6.548594317637455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "CRA 14 CLL 25",
+        "HORA": "09:30 AM",
+        "RUTA": "B3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14603988982026,
+          6.556969891803805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "IGLESIA SAN MARTIN",
+        "HORA": "09:40 AM ",
+        "RUTA": "B3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14458128150773,
+          6.556510237023729
+        ]
+      }
     }
   ]
 }
