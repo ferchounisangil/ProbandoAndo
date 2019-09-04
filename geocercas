@@ -302,6 +302,114 @@
           6.571747504718417
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "RESTAURANTE MATEGUADUA",
+        "HORA": "07:15 AM",
+        "RUTA": "B2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12544978185093,
+          6.518808287322387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "#0080ff",
+        "NOMBRE": "CALLE 19 CRA 8",
+        "HORA": "04:38 AM",
+        "RUTA": "A2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13721824646944,
+          6.559048005357021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "EDIFICIO SANTORINI",
+        "HORA": "06:10 AM",
+        "RUTA": "A2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13483227632537,
+          6.561239671029139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "UNIDADES TECNOLOGICAS",
+        "HORA": "06:55 AM",
+        "RUTA": "A2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13391326197063,
+          6.557517990712341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "CRA 10 CLL 24",
+        "HORA": "10:26 AM",
+        "RUTA": "A2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.141331147666,
+          6.559240225403566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "LUIS CARLOS GALAN",
+        "HORA": "12:45 AM ",
+        "RUTA": "A2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14831147802249,
+          6.563696619669754
+        ]
+      }
     }
   ]
 }
