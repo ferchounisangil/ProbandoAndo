@@ -1,0 +1,505 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "GLORIETA ARGOS",
+        "HORA": "4:30 AM",
+        "RUTA": "B1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1398594379425,
+          6.560430867770868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "NOMBRE": "HOTEL MONCHUELO",
+        "HORA": "5:00 AM",
+        "RUTA": "B1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.15580248832703,
+          6.552266326605947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "NOMBRE": "BARRIO SANTANDER",
+        "HORA": "5:55 AM",
+        "RUTA": "B1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1459641456604,
+          6.553726574203755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "NOMBRE": "IGLESIA SAGRADA FMLA",
+        "HORA": "9:00 AM",
+        "RUTA": "B1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13874363899231,
+          6.554280827647084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "NOMBRE": "CRA 16 CON 15",
+        "HORA": "07:55 AM",
+        "RUTA": "B1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13801407814024,
+          6.552085127700772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-symbol": "",
+        "marker-size": "",
+        "NOMBRE": "CC EL PUENTE",
+        "HORA": "04:38 AM",
+        "RUTA": "B2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1334114074707,
+          6.551296378758514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "IGLESIA PROVIVIENS",
+        "HORA": "06:10 AM",
+        "RUTA": "B2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13202738761902,
+          6.541181096027358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "BELLA VISTA ",
+        "HORA": "06:20 AM",
+        "RUTA": "B2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12765538692474,
+          6.542625387607276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "TIERRERO DE LOS RICOS",
+        "HORA": "09:30 AM",
+        "RUTA": "B2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14161473111147,
+          6.556014639334545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "VILLA DEL PRADO CALLE 33 12B",
+        "HORA": "10:57 AM",
+        "RUTA": "B2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.15133330191401,
+          6.557254009895933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "COLEGIO SAN CARLOS",
+        "HORA": "12:13 AM",
+        "RUTA": "B2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14492360237256,
+          6.555351020499884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "",
+        "marker-symbol": "",
+        "NOMBRE": "HOGAR DE PASO ANCIANATO",
+        "HORA": "04:36 AM",
+        "RUTA": "A1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12985361270643,
+          6.558174648070871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "COLEGIO SANTA CRUZ DE LA NUEVA BAEZA",
+        "HORA": "04:45 AM ",
+        "RUTA": "A1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12687377215786,
+          6.559108147955392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "IGLESIA DE PABLO VI",
+        "HORA": "05:40 AM ",
+        "RUTA": "A1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12687377215786,
+          6.556329368181774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "CARRERA 5 ALTOS GALLINERAL",
+        "HORA": "06:49 AM",
+        "RUTA": "A1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12342142785889,
+          6.555296517503701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "PUENTE EL GUASCA VIA MOGOTES",
+        "HORA": "09.55 AM",
+        "RUTA": "A1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.11426851175156,
+          6.55554656796223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "EDS LA PALOBLANCA",
+        "HORA": "10:26 AM",
+        "RUTA": "A1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.10891167052006,
+          6.571747504718417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#80ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "RESTAURANTE MATEGUADUA",
+        "HORA": "07:15 AM",
+        "RUTA": "B2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12544978185093,
+          6.518808287322387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "marker-color": "#0080ff",
+        "NOMBRE": "CALLE 19 CRA 8",
+        "HORA": "04:38 AM",
+        "RUTA": "A2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13721824646944,
+          6.559048005357021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "EDIFICIO SANTORINI",
+        "HORA": "06:10 AM",
+        "RUTA": "A2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13483227632537,
+          6.561239671029139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "UNIDADES TECNOLOGICAS",
+        "HORA": "06:55 AM",
+        "RUTA": "A2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13391326197063,
+          6.557517990712341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "CRA 10 CLL 24",
+        "HORA": "10:26 AM",
+        "RUTA": "A2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.141331147666,
+          6.559240225403566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080c0",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "LUIS CARLOS GALAN",
+        "HORA": "12:45 AM ",
+        "RUTA": "A2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14831147802249,
+          6.563696619669754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "ESTADIO EL POLOMO SILVA",
+        "HORA": "04:41 AM ",
+        "RUTA": "B3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13881561436585,
+          6.550988428061962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "CRA 19 CLL 10 PORTAL DE LA CRUZ",
+        "HORA": "05:54 AM ",
+        "RUTA": "B3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.13554167101677,
+          6.548485113567152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "CRA 18 CLL 10A",
+        "HORA": "06:35 AM",
+        "RUTA": "B3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1350658829275,
+          6.548594317637455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "CRA 14 CLL 25",
+        "HORA": "09:30 AM",
+        "RUTA": "B3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14603988982026,
+          6.556969891803805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "NOMBRE": "IGLESIA SAN MARTIN",
+        "HORA": "09:40 AM ",
+        "RUTA": "B3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.14458128150773,
+          6.556510237023729
+        ]
+      }
+    }
+  ]
+}
